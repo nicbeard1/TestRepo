@@ -1,20 +1,14 @@
-# Tobey's website for Project N
+# Nic's test site - Lego Club
 
 ![amiresponsive](docs/amiresponsive.PNG)
 
-[View the deployed website here](https://shipleysteve.github.io/)
+[View the deployed website here](https://nicbeard1.github.io/TestRepo/)
 
 ## User Experience (UX)
 
 ### Initial Discussion
 
- The goal of the project N is to create a website for a local employer. Nicola would like a website to provide information on her services . The goal of this website is to give  our users a clear understanding of what  service are available and what she can do to help clients. My goal is to generate as many new clients as possible for Nicola.
-
- #### Key information for the site:
-
- * Project N is the winning entry in Shipley College's T level competition.
- * The winning entry was by Tobey.
- * The website is going to be developed over summer by Tobey and also Mohammed, who came second in the competition.
+The purpose of creating this site is to practice and refresh my skills using HTML and Bootstrap. using the online bootstrap template as a base, i have changed aspects of the code, colours and photos to fit the Lego Club concept
 
 ### User Stories
 
@@ -22,48 +16,23 @@ TBC
 
 ### User Goals
 
-#### Client Goals:
-
-* The ability to view the website to get information on services provided.
-* To make the site understandable for first-time users and to make the purpose clear.
-* To provide clear and easy-to-notice contact information, including address.
-* To make the content easy to read and accessible to all visitors.
-
-#### First-Time Visitor Goals:
-
-* To find out what Project N is.
-* To be able to easily navigate through the website on various devices.
-* To visit our social media pages.
-
-#### Returning Visitor Goals:
-
-* Fill out the contact form and get in touch with us regarding doing business together.
-* To start collaboration and answer any questions potential clients may have.
-
-#### Frequent Visitor Goals:
-
-* Our frequent visitors should be our business partners.
-
-- - -
+TBC
 
 ## Design
 
+i certainly wanted images of lego bricks on the website, although i havent got them working properly yet. i also wanted the colour scheme to be a little brighter, hence the use of Royal Blue in the header rather than Black.
+
 ### Colour Scheme
 
- The website mainly follows Google's Material design philosophy.
-
+the websites colour scheme is White with a Blue header, black Text and footer. in the footer is a line of white text containing the Copyright statement. 
 
 ### Typography 
 
-The font used is the one supplied with the BootStrap theme used.
+The font used that of the BootStrap theme used.
 
 ### imagery
 
-All images were taken from the Google website and reference was provided where applicable.
-
-### Wireframes
-
-Wireframes were created for desktop view. 
+All images were taken from the Google website and reference was provided where applicable. 
 
 ### Features
 
@@ -71,24 +40,17 @@ TBC
 
 ### Accessibility 
 
-It was ensured that the website is accessible and as user-friendly as possible. This has been achieved by: 
-
-* Using semantic HTML.
-* Using descriptive alt attributes on images on the site.
-* Ensured that there is a sufficient colour contrast throughout the site. 
-* Ensured that all the links have descriptive names. 
-
-- - -
+i ensured that the colours contrasted and the text was of a legible size. 
 
 ## Technology
 
+the website is made public using Github Pages
+
 ### Languages Used
 
- HTML and CSS were used for this project.
+ HTML and CSS were used for this project, as well as the Full Width Pics Bootstrap template.
 
 ### Frameworks, Libraries & Programs Used
-
-* Balsamiq - Wireframes.
 
 * GitHub Desktop - Version control.
 
@@ -96,14 +58,10 @@ It was ensured that the website is accessible and as user-friendly as possible. 
 
 * Bootstrap v5.2 - a framework used for the website. Used when creating rows and columns. Also, the form element was almost entirely created using this framework, with the support of standard CSS3 code to override certain styles.
 
-* Font Awesome - For the iconography on the website.
-
 * Google Dev Tools - Troubleshooting, testing features and solving issues with responsiveness and styling.
 
 * [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 * [Favicon.io](https://favicon.io/) To create favicon.
-
-- - -
 
 ## Testing
 
@@ -127,13 +85,6 @@ The W3C validator was used to validate the HTML and CSS pages.
 
 TBC
 
-
-### Test Cases
-
-I have fully tested the website using Google Chrome and Mozilla Firefox on desktop (Comoputer details go here) and mobile (mobile device details here). 
-
-It was ensured that through the testing process content was responsive using the Google Developer Tools. 
-
 #### Home page
 
 * I began by clicking on the "home" link and the logo to see if the homepage loads correctly.
@@ -146,25 +97,6 @@ It was ensured that through the testing process content was responsive using the
   * The same process was repeated for the Your Email, Subject and Message fields.
   * When all fields are completed, the "Submit" button should display a "thank you" message without any errors on the form.
 
-### Supported Screens and Browsers
-
-* Browsers - It is recommended that you use the latest version of one of the following:
-
-  * [Apple Safari](https://www.apple.com/safari/)
-  * [Google Chrome](https://www.google.com/chrome/)
-  * [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ)
-  * [Mozilla Firefox](https://www.mozilla.org/pl/firefox/)
-
-* Screens
-
-  * This website is suitable for mobile devices including Samsung and iPhone (Devices of the same width are also suitable).
-  * Tablets.
-  * Desktops.
-
-- - -
-
-## Deployment & Local Development
-
 ### Deployment
 
 GitHub Pages was used to deploy the live website. Instructions:
@@ -175,16 +107,6 @@ GitHub Pages was used to deploy the live website. Instructions:
 4. Click on the Pages link in the left-hand side navigation bar.
 5. In the Source section, choose main from the drop-down select branch menu. Select Root from the drop-down select folder menu.
 6. Click Save. Your live Github Pages site is now deployed at the URL shown.
-
-### Local Development
-
-#### How to Fork
-
-Fork the Project N repository:
-
-1. Log in (or sign up) to Github.
-2. Go to the repository for this project, ShipleySteve.github.io.
-3. Click the Fork button in the top right corner.
 
 #### How to Clone
 
@@ -203,10 +125,6 @@ Clone the ShipleySteve.github.io repository:
 ### Background Images
 
 TBC
-
-
-
-- - -
 
 ## Acknowledgements
 
