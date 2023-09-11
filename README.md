@@ -36,7 +36,7 @@ All images were taken from the Google website and reference was provided where a
 
 ### Features
 
-TBC
+Custom Favicon of a team of original characters
 
 ### Accessibility 
 
