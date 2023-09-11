@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head><style>.xpdopen { display: none; }</style><style>div[jsaction*=lightbox] { display: none; }</style><style>.xpdopen { display: none; }</style><style>div[jsaction*=lightbox] { display: none; }</style>
+    <head><style>.xpdopen { display: none; }</style><style>div[jsaction*=lightbox] { display: none; }</style><style>.xpdopen { display: none; }</style><style>div[jsaction*=lightbox] { display: none; }</style><style>.xpdopen { display: none; }</style><style>div[jsaction*=lightbox] { display: none; }</style>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
@@ -24,6 +24,34 @@
             <div class="container">
                 <a class="navbar-brand" href="#!">Lego Club</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                
+<head><style>.xpdopen { display: none; }</style>
+                <style>div[jsaction*=lightbox] { display: none; }</style>
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                
+                <style>
+                  body {
+                  padding: 25px;
+                  background-color: white;
+                  color: black;
+                  font-size: 25px;
+                }
+
+                .dark-mode {
+                  background-color: black;
+                  color: white;
+                }
+                </style>
+
+                <button onclick="darkModeJS()">Toggle dark mode</button>
+
+                <script>
+									function darkModeJS() {
+  									var element = document.body;
+   									element.classList.toggle("dark-mode");
+									}
+								</script>
+
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Home</a></li>
@@ -57,7 +85,7 @@
                         <p class="lead">Lego ia a toy company from Billund, Denmark. </p>
                         <p class="mb-0">This world-famous toy company specialises in construction toys for a wide range of popular licensed themes, such as Star Wars, DC and Marvel comics E.T.C., and original themes such as DreamzZz and Ninjago.
 
-                        Founded by a carpenter called Ole Kirk Christiansen in 1932, the company originally created and sold wooden toys, the most famour of which being a colourful wheeled duck on a string. lego introduced their plastic construction toys in 1948, providing a range of vehicles such as cars and trucks. in 1978, lego introduced the minifigure, a small, poseable figure, one or multiple of which were and still are included in sets. Since then, lego has released books, magazines, TV series and movies based on their characters, both original characters such as Clutch Powers and Emmett Brickowski, and licensed themes such as star wars. </p>
+                        Founded by a carpenter called Ole Kirk Christiansen in 1932, the company originally created and sold wooden toys, the most famous of which being a colourful wheeled duck on a string. lego introduced their plastic construction toys in 1948, providing a range of vehicles such as cars and trucks. in 1978, lego introduced the minifigure, a small, poseable figure, one or multiple of which were and still are included in sets. Since then, lego has released books, magazines, TV series and movies based on their characters, both original, such as Clutch Powers and Emmett Brickowski, and licensed themes such as star wars. </p>
                     </div>
                 </div>
             </div>
@@ -80,6 +108,15 @@
                 </div>
             </div>
         </section>
+        <button onclick="myFunction()">Ooohh, a button!</button>
+        
+        <p id="demo"></p>
+        
+        <script>
+					function myFunction() {
+  				document.getElementById("demo").innerHTML = "ooohh, a user!";
+					}
+				</script>
         <!-- Footer-->
         <footer class="py-5 bg-dark">
             <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Lego Club 2023</p></div>
